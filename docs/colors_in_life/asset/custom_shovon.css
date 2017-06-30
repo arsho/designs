@@ -1,0 +1,108 @@
+.carousel-cell {
+	width: 100%;
+	height: 200px;
+	margin-right: 10px;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 200px;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;		
+	text-transform: capitalize;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.red{
+	background: red;			  
+}
+.orange{
+	background: orange;
+}
+.yellow{
+	background: yellow;			  			
+	color: black;
+}
+.green{
+	background: green;			  
+}
+.blue{
+	background:blue;
+}
+.indigo{
+	background:indigo;
+}
+.purple{
+	background:purple;
+}
+.turquoise{
+	background:turquoise;
+	color: black;
+}
+.pink{
+	background:pink;
+	color: black;
+}
+.magenta{
+	background:magenta;
+	color: black;
+}
+.brown{
+	background:brown;
+}
+.gray{
+	background:gray;
+	color: black;
+}
+.silver{
+	background:silver;
+	color:black;
+}
+.gold{
+	background:gold;
+}
+.white{
+	background:white;
+	color:black;
+}
+.black{
+	background:black;
+}
+a {
+	text-decoration: none;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+.info{
+	width: 100%;
+	margin: 50px auto;
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 20px;
+}
+.focus {
+	display: inline-block;
+	padding: 2px 4px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #333;
+	background: #ddd;
+	border: 1px solid transparent;
+}
+.focus:hover, .focus:focus {
+	color: #0099FF;
+	background: none;
+	border: 1px solid #ddd;
+}
+.solid {
+	border: none;
+}
+.solid:hover, .solid:focus {
+	color: white;
+	background: #4078c0;
+	border: none;
+}
